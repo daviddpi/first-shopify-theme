@@ -5,7 +5,7 @@
         "type": "header",
         "settings": {
           "mobile_menu_title": "David Development Store",
-          "menu": "footer"
+          "menu": "main-menu"
         }
       }
     },
